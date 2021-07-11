@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{2A6AF738-10C4-2723-EDEA-7FEDAE5BAB58}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ButtonAnimationScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MugPickup.cs">
     <Files>
-      <File FileName="Assets/Scripts/ButtonAnimationScript.cs" Line="36" Column="50" />
+      <File FileName="Assets/Scripts/ButtonAnimationScript.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/ButtonController.cs" Line="12" Column="6" />
       <File FileName="Assets/Scripts/MugPickup.cs" Line="17" Column="1" />
-      <File FileName="Assets/Scripts/MugPickupMsgFlash.cs" Line="20" Column="1" />
+      <File FileName="Assets/Scripts/MugPickupMsgFlash.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +12,7 @@
           <Node name="IndividualProject" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="ButtonAnimationScript.cs" selected="True" />
+                <Node name="MugPickup.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -22,7 +22,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a500e62d-d4e9-42c0-96bc-c4248f929daf" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="01abc562-d970-498b-b819-6bfbf5f42d30" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
