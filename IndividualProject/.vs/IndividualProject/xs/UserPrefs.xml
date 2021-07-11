@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{2A6AF738-10C4-2723-EDEA-7FEDAE5BAB58}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MugPickup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ButtonAnimationScript.cs">
     <Files>
-      <File FileName="Assets/Scripts/ButtonAnimationScript.cs" Line="35" Column="34" />
+      <File FileName="Assets/Scripts/ButtonAnimationScript.cs" Line="36" Column="50" />
       <File FileName="Assets/Scripts/ButtonController.cs" Line="12" Column="6" />
-      <File FileName="Assets/Scripts/MugPickup.cs" Line="19" Column="1" />
-      <File FileName="Assets/Scripts/MugPickupMsgFlash.cs" Line="11" Column="6" />
+      <File FileName="Assets/Scripts/MugPickup.cs" Line="17" Column="1" />
+      <File FileName="Assets/Scripts/MugPickupMsgFlash.cs" Line="20" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +12,7 @@
           <Node name="IndividualProject" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="MugPickup.cs" selected="True" />
+                <Node name="ButtonAnimationScript.cs" selected="True" />
               </Node>
             </Node>
           </Node>
